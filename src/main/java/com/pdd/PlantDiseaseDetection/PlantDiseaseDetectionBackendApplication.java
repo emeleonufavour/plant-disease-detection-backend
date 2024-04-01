@@ -9,5 +9,4 @@ public class PlantDiseaseDetectionBackendApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PlantDiseaseDetectionBackendApplication.class, args);
 	}
-
 }
